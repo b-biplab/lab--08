@@ -1,5 +1,5 @@
 /*
- * Ayush Singh
+ * Biplab Behera
  * Algorithms and Data Structures Laboratory I (2017)
  * Implementation of Stack using an array based list
  */
